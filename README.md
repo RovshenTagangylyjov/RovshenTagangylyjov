@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on trade.com.tm as Backend developer.
 - 💬 Ask me anything about Python and Django 
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Rovshen%20Tagangylyjov-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rovshentagangylyjov)
-- 📄 You can check my [CV](https://drive.google.com/file/d/1qZmPZ_AbxMnije2SRoBhKAHAGNYuNzuY/view?usp=sharing) for more details about work experience.
+- 📄 You can check my [CV](https://drive.google.com/file/d/1G_61DtS4x69FkZwNO926CK9BHDF9WE5m/view?usp=sharing) for more details about work experience.
 
 
 ### 🛠 &nbsp;Languages and Tools :
