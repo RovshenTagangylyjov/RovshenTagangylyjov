@@ -3,4 +3,4 @@
 
 - 🔭 I’m currently working at Baltek 
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Rovshen%20Tagangylyjov-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rovshentagangylyjov)
-- 📄 You can check my [CV](https://drive.google.com/file/d/1G_61DtS4x69FkZwNO926CK9BHDF9WE5m/view?usp=sharing) for more details about work experience.
+- 📄 You can check my [CV](https://docs.google.com/document/d/1MkbpHkXERFW_tIXtut4ZvVcWb9Ce1wDr/edit?usp=sharing&ouid=111742888213647936433&rtpof=true&sd=true) for more details about work experience.
